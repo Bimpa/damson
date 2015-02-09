@@ -7,4 +7,8 @@ http://damson.sites.sheffield.ac.uk/
 Authors David Allertona and Paul Richmond
 Contact: p.richmond@sheffield.ac.uk
 
-Copywrite University of Sheffield.
+Copyrite University of Sheffield.
+
+#Compilation
+
+Deisgned for Linux x86 using make. Compilation for mingw is also supported.
